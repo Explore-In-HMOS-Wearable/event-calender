@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Events Calendar App"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Events Calendar App"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Events Calendar"
+    }
+  ]
+}
